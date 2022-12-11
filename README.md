@@ -10,6 +10,6 @@ Análise realizada do período em que a covid-19 causou uma grande volatilidade 
 
 Atividade realizada para aperfeiçoamento de técnicas de análise exploratória e tratamento dos dados.
 
-### [Análise exploratória Analytics Instagram](https://github.com/igormartins0301/Analises_exploratorias_dados/blob/main/Projeto1_An%C3%A1lise_de_Instagram.ipynb)
+### [Métricas do Instagram Analytics](https://github.com/igormartins0301/Analises_exploratorias_dados/blob/main/Projeto1_An%C3%A1lise_de_Instagram.ipynb)
 
 Análise realizada com métricas de uma conta do instagram, para encontrar padrões que trouxeram mais engajamento para as publicações da marca. 
